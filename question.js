@@ -3,11 +3,11 @@ let questions = [
     {
     numb: 5,
     question: "Quel est son nom ?",
-    answer: "2) pont de la bogne",
+    answer: "2) Le pont de la Bogne",
     options: [
-      "1) pont du cérou",
-      "2) pont de la bogne",
-      "3) pont valentré",
+      "1) Le pont du Cérou",
+      "2) Le pont de la Bogne",
+      "3) Le pont Valentré",
      
     ]
   },
